@@ -1,6 +1,6 @@
 
 
-# National Organizational Database
+# Constraints
 
 This SQL project demonstrates the core concept of relational database design using primary keys and foreign keys.
 
