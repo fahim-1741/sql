@@ -1,10 +1,10 @@
 
 
-# Bangladesh Organizational Database: Relational Model Demonstration
+# National Organizational Database
 
 This SQL project demonstrates the core concept of relational database design using primary keys and foreign keys.
 
-The **BANGLADESH** database enforces data integrity by establishing relationships between multiple tables and applying constraints such as PRIMARY KEY, FOREIGN KEY, UNIQUE, and NOT NULL.
+The  database enforces data integrity by establishing relationships between multiple tables and applying constraints such as PRIMARY KEY, FOREIGN KEY, UNIQUE, and NOT NULL.
 
 The project ensures that invalid or inconsistent data cannot be inserted into related tables.
 
